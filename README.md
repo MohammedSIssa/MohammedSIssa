@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedSIssa
-- 👀 I’m interested in Working with data
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Small projects
 - 📫 How to reach me mohammedsissa1999@gmail.com
 
