@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning NodeJS Full-Stack web development
+- 🌱 I’m currently learning Node JS full-stack web development
 - 📫 How to reach me? Email me at mohammedsissa1999@gmail.com
 
 <!---
