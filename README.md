@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mohammed
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Small projects
-- 📫 How to reach me mohammedsissa1999@gmail.com
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning NodeJS Full-Stack web development
+- 📫 How to reach me? Email me at mohammedsissa1999@gmail.com
 
 <!---
 MohammedSIssa/MohammedSIssa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
