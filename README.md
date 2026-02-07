@@ -1,35 +1,22 @@
-# Hi, I'm Mohammed 👋
+# 👋 Hey, I'm Mohamed.
 
-I'm a full-stack developer focused on building clean, practical web applications.
+Full-stack web developer who enjoys turning ideas into real products.
 
-### 🛠 Tech Stack
+## 🚀 Tech I use
 
-**Frontend**
-- React
-- TypeScript
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge)
 
-**Backend**
-- Node.js
-- Express.js
+## 🧠 About me
+- I like building things end-to-end (frontend → backend → database)
+- I care about clean code and simple architecture
+- I prefer learning by shipping real projects
 
-**Database**
-- PostgreSQL
-
-**Cloud / DevOps**
-- Render
-- Neon
-
-### ⚡ What I care about
-- Writing readable, maintainable code  
-- Building real projects, not just tutorials  
-- Improving UX and accessibility  
-
-### 🌱 Currently
-- Deepening my React + TypeScript skills  
-- Building full-stack apps with PostgreSQL  
-
----
-
-> “Make it work, make it right, then make it fast.”
-
-- 📫 How to reach me? Email me at mohammedsissa1999@gmail.com
+## 🔥 Current focus
+- Advanced React patterns  
+- Type-safe full-stack apps  
+- Better system design
