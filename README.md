@@ -1,9 +1,35 @@
-- 👋 Hi, I’m Mohammed
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Node JS full-stack web development
-- 📫 How to reach me? Email me at mohammedsissa1999@gmail.com
+# Hi, I'm Mohammed 👋
 
-<!---
-MohammedSIssa/MohammedSIssa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a full-stack developer focused on building clean, practical web applications.
+
+### 🛠 Tech Stack
+
+**Frontend**
+- React
+- TypeScript
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- PostgreSQL
+
+**Cloud / DevOps**
+- Render
+- Neon
+
+### ⚡ What I care about
+- Writing readable, maintainable code  
+- Building real projects, not just tutorials  
+- Improving UX and accessibility  
+
+### 🌱 Currently
+- Deepening my React + TypeScript skills  
+- Building full-stack apps with PostgreSQL  
+
+---
+
+> “Make it work, make it right, then make it fast.”
+
+- 📫 How to reach me? Email me at mohammedsissa1999@gmail.com
